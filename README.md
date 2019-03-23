@@ -38,4 +38,8 @@
 ### [5577yx网络游戏运营平台](http://www.5577yx.com/)
 负责该项目的前后端开发,后端主要是.Net 相关技术栈,前端主要使用 jQuery.js 相关技术栈.
 
-
+# 技能清单
+- Web前端:JavaScript/HTML(5)/CSS(3)(5年+)
+- Web后端:Koa2/Express/MongoDB/(2年) .Net/SQLServer(1年+)
+- 前端框架:React/Mobx(1年) Vue/Vuex(2年+) Electron/NW(3年+)
+- 编程语言:Node.js(3年+) Typescript(2年+) C#/Java(1年+)
