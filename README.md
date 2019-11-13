@@ -3,7 +3,7 @@
 - 本科(中南财经政法大学/自考)/工商管理
 - Web前端(5年)/Node.js(3年)/C#(1年)
 - 18672995920(手机)/Zane0816@hotmail.com(邮箱)
-- 期望:武汉 Web前端(15k+)/Node.js(14K+)
+- 期望:武汉 Web前端(17k+)/Node.js(15K+)
 
 # 我的优势
 - React+Mobx(1年+)
@@ -14,7 +14,7 @@
 
 # 工作经历
 
-## 武汉诸相网络(2018.8-今) 高级前端工程师 
+## 武汉福禄网络(2018.8-今) 高级前端工程师 
 ### [Steam游戏助手](http://steamboxs.com)(2018.8-今)
 负责此项目全部前端工作,从项目框架选择和到项目搭建.该项目我使用 React+Mobx 组合,需要兼容 Web 端和定制客户端以及移动端.
 
@@ -41,5 +41,5 @@
 # 技能清单
 - Web前端:JavaScript/HTML(5)/CSS(3)(5年+)
 - Web后端:Koa2/Express/MongoDB/(2年) .Net/SQLServer(1年+)
-- 前端框架:React/Mobx(1年) Vue/Vuex(2年+) Electron/NW(3年+)
+- 前端框架:React/Mobx(1年+) Vue/Vuex(2年+) Electron/NW(3年+)
 - 编程语言:Node.js(3年+) Typescript(2年+) C#/Java(1年+)
