@@ -6,16 +6,16 @@
 - 期望:武汉 Web前端(17k+)/Node.js(15K+)
 
 # 我的优势
-- React+Mobx(1年+)
-- Node.js(3年+)/Webpack(2年+)
+- React+Mobx(2年+)
+- Node.js(3年+)/Webpack(3年+)
 - Vue全家桶(2年+)
-- Electron.js/NW.js(2年+)
-- Typescript(2年+)
+- Electron.js/NW.js(3年+)
+- Typescript(3年+)
 
 # 工作经历
 
 ## 武汉福禄网络(2018.8-今) 高级前端工程师 
-### [Steam游戏助手](http://steamboxs.com)(2018.8-今)
+### [Steam游戏助手](https://steamboxs.com)/[99box游戏](https://simpleshq.99box.com/)(2018.8-今)
 负责此项目全部前端工作,从项目框架选择和到项目搭建.该项目我使用 React+Mobx 组合,需要兼容 Web 端和定制客户端以及移动端.
 
 ## 武汉中科图灵(2018.3-2018.8) 高级前端工程师
@@ -41,5 +41,5 @@
 # 技能清单
 - Web前端:JavaScript/HTML(5)/CSS(3)(5年+)
 - Web后端:Koa2/Express/MongoDB/(2年) .Net/SQLServer(1年+)
-- 前端框架:React/Mobx(1年+) Vue/Vuex(2年+) Electron/NW(3年+)
-- 编程语言:Node.js(3年+) Typescript(2年+) C#/Java(1年+)
+- 前端框架:React/Mobx(2年+) Vue/Vuex(2年+) Electron/NW(3年+)
+- 编程语言:Node.js(3年+) Typescript(3年+) C#/Java(1年+)
